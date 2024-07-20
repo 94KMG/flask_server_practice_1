@@ -1,2 +1,2 @@
-# flask_server_practice_1
+# server_practice
 # 프로젝트 목적 : 비주얼 스튜디오 코드를 활용해서 서버와 클라이언트의 개념을 학습하기 위함
